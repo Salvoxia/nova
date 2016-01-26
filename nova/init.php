@@ -7,4 +7,4 @@
  * @package EDK
  */
 
-$themeInfo = array("name" => "Nova", "info"=>"Nova theme by Vecati");
+$themeInfo = array("name" => "Nova", "info"=>"Nova theme by Vecati. Maintained by Salvoxia.");
