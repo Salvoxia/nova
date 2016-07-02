@@ -13,6 +13,10 @@ Set your Banner/Logo to a maximum height of 35 pixels, and ideally a width of up
 
 ##Changelog after initial release
 
+#####2016/07/02
+
+* Added support for displaying daily stats summaries on the front page
+
 #####2016/02/09
 
 * IDFeed: Added option to ignore NPC only kills
